@@ -1,0 +1,11 @@
+Package: Metrics
+Type: Package
+Title: Regression Metrics
+Version: 0.1.0
+Author: Bharat Kaushik
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: It consists of the required metrics to evaluate regression model.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
